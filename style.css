@@ -1,17 +1,51 @@
-body{
-  background-color: cyan;
+nav{
+  color:rgb(225, 255, 0);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h1{
-  color:blue;
+.ms-auto{
+  color: rgb(255, 123, 0);
 }
-p{
-  color:green;
+.logo{
+  height:40px;
 }
-.image{
-  float: left;
-  height: 200px;
-  width: 200px;
+.home{
+  height:20px;
 }
-button{
-  color: red;
+.project{
+  height:20px;
 }
+.assignments{
+  height:20px;
+}
+.help{
+  height:20px;
+}
+.pms{
+  height:40px;
+}
+.copyright{
+  background-color: black;
+  color:aliceblue;
+  padding: 20px;
+} 
+ .pms-f{
+  height:40px;
+ }
+ .location{
+  height:20px;
+ }
+ .facebook{
+  height:40px;
+ }
+ .instagram{
+  height:40px;
+ }
+ .reddit{
+  height:40px;
+ }
+ .whatsapp{
+  height:40px;
+ }
+ .phone{
+  height:40px;
+ }
